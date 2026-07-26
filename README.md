@@ -62,43 +62,37 @@ All Booked Orders (View / Delete)
 
 **Admin Login**
 
-<img src="./Login.png" alt="Admin Login Page" width="100%">
+<img src="./LOGIN" alt="Admin Login Page" width="100%">
 
 <br><br>
 
 **Home Page**
 
-<img src="./Home.png" alt="Home Page" width="100%">
-
-<br><br>
-
-**Explore Categories**
-
-<img src="./Categories.png" alt="Explore Categories" width="100%">
+<img src="./HOME" alt="Home Page" width="100%">
 
 <br><br>
 
 **Category — Food Listing**
 
-<img src="./Pizza.png" alt="Pizza Category Listing" width="100%">
+<img src="./FOOD" alt="Pizza Category Listing" width="100%">
 
 <br><br>
 
 **Cart Page**
 
-<img src="./Cart.png" alt="Cart Page" width="100%">
+<img src="./CART" alt="Cart Page" width="100%">
 
 <br><br>
 
 **Order Confirmed**
 
-<img src="./OrderConfirmed.png" alt="Order Confirmation Popup" width="100%">
+<img src="./CONFIRMATION" alt="Order Confirmation Popup" width="100%">
 
 <br><br>
 
 **All Booked Orders (Admin Panel)**
 
-<img src="./AllOrders.png" alt="All Booked Orders" width="100%">
+<img src="./PASTORDER" alt="All Booked Orders" width="100%">
 
 </div>
 
